@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Population()
+comment1.params=
+comment1.target=void\ initialization()
+comment2.params=
+comment2.target=int\ getFitness()
+comment3.params=newFitness
+comment3.target=void\ setFitness(int)
+comment4.params=
+comment4.target=int[]\ getPop()
+comment5.params=index\ value
+comment5.target=void\ setPop(int,\ int)
+comment6.params=newChromo
+comment6.target=void\ setChromo(int[])
+comment7.params=newC\ newFitness
+comment7.target=void\ setAll(int[],\ int)
+numComments=8

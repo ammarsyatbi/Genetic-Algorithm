@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ \ \ \ \ \ NOTE\r\n\ \ \ \ \ \ ALL\ THESE\ PAREMETERS\ SETTINGS\ HAS\ BEEN\ TUNED\r\n\ \ \ \ \ \ IT\ HAS\ BEEN\ CONCLUDED\r\n\ \ \ \ \ \ THAT\ THIS\ SHOWS\ THE\ BEST\ RESULT\ \:\ SINCE\ IT\ WONT\ STUCK\ IN\ LOCAL\ OPTIMA\r\n\ \ \ \ \ \ p/s\ \:\ crossover\ rate\ is\ not\ set\ (basically\ its\ 1),\ because\ it\ would\ slow\ down\ the\ process;\r\n\ \ \ \ \ \ p/s\ \:\ paremeter\ control\ will\ be\ considered\ on\ parent\ number.\r\n\ \ \ \ \ \ final\ static\ int\ populationSize\ \=\ 10;//\r\n\ \ \ \ \ \ final\ static\ int\ cs\ \=\ 6;\ //\ chromosome\ lenght\r\n\ \ \ \ \ \ final\ static\ int\ si\ \=\ 10000;//stopping\ iteration\ ,\ one\ of\ stopping\ condition\r\n\ \ \ \ \ \ final\ static\ int\ parentNum\ \=\ 8;//steady\ state\ model\r\n\ \ \ \ \ \ final\ static\ int\ mutationRate\ \=\ 30;\r\n
+comment1.params=
+comment1.target=void\ Initialization()
+comment2.params=
+comment2.target=void\ FitnessEva()
+comment3.params=
+comment3.target=void\ RankSelection()
+comment4.params=
+comment4.target=void\ Crossover()
+comment5.params=crosser\ index
+comment5.target=void\ Mutation(int[],\ int)
+comment6.params=
+comment6.target=void\ SteadyStateSelection()
+comment7.params=
+comment7.target=void\ showPop()
+numComments=8
